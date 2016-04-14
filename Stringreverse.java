@@ -1,4 +1,4 @@
-package Practice;
+package PROG3_Muppalla_Chandana;
 /*We can use concept of recursion
  * call the function for n-1----0
  * the base condition is for string length n=0 return empty string
@@ -22,7 +22,7 @@ public class Stringreverse {
 
 	public static void main(String args[])
 	{
-		String s="chandu";
+		String s="varshika";
 		System.out.println(reverseString(s.length(),s));
 	}
 }
